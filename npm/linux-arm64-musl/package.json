@@ -1,0 +1,21 @@
+{
+  "name": "@wefly-rs/copy-folder-linux-arm64-musl",
+  "version": "1.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "@wefly-rs/copy-folder.linux-arm64-musl.node",
+  "files": [
+    "@wefly-rs/copy-folder.linux-arm64-musl.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "musl"
+  ]
+}

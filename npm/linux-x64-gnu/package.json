@@ -1,0 +1,21 @@
+{
+  "name": "@wefly-rs/copy-folder-linux-x64-gnu",
+  "version": "1.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "@wefly-rs/copy-folder.linux-x64-gnu.node",
+  "files": [
+    "@wefly-rs/copy-folder.linux-x64-gnu.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "glibc"
+  ]
+}
