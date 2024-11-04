@@ -22,7 +22,7 @@ pub async fn copy_directory(src: String, dest: String) -> Result<()> {
       let new_src = src_path.join(entry.file_name());
       let new_dest = dest_path.join(entry.file_name());
       if new_src.is_file() {
-        println!("src: {}, dest: {}", src, dest);
+        // println!("src: {}, dest: {}", src, dest);
         let _ = fs::copy(&new_src, &new_dest);
       } else if new_src.is_dir() {
         // println!("copy dir: {:?}", path);
