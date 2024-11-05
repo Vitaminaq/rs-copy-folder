@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "@wefly-rs/copy-folder.linux-arm-gnueabihf.node",
+  "main": "copy-folder.linux-arm-gnueabihf.node",
   "files": [
-    "@wefly-rs/copy-folder.linux-arm-gnueabihf.node"
+    "copy-folder.linux-arm-gnueabihf.node"
   ],
   "license": "MIT",
   "engines": {

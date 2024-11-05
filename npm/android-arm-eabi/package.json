@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "@wefly-rs/copy-folder.android-arm-eabi.node",
+  "main": "copy-folder.android-arm-eabi.node",
   "files": [
-    "@wefly-rs/copy-folder.android-arm-eabi.node"
+    "copy-folder.android-arm-eabi.node"
   ],
   "license": "MIT",
   "engines": {

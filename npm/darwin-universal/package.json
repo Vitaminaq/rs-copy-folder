@@ -4,9 +4,9 @@
   "os": [
     "darwin"
   ],
-  "main": "@wefly-rs/copy-folder.darwin-universal.node",
+  "main": "copy-folder.darwin-universal.node",
   "files": [
-    "@wefly-rs/copy-folder.darwin-universal.node"
+    "copy-folder.darwin-universal.node"
   ],
   "license": "MIT",
   "engines": {

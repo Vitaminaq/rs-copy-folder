@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "@wefly-rs/copy-folder.darwin-arm64.node",
+  "main": "copy-folder.darwin-arm64.node",
   "files": [
-    "@wefly-rs/copy-folder.darwin-arm64.node"
+    "copy-folder.darwin-arm64.node"
   ],
   "license": "MIT",
   "engines": {

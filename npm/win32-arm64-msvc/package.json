@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "@wefly-rs/copy-folder.win32-arm64-msvc.node",
+  "main": "copy-folder.win32-arm64-msvc.node",
   "files": [
-    "@wefly-rs/copy-folder.win32-arm64-msvc.node"
+    "copy-folder.win32-arm64-msvc.node"
   ],
   "license": "MIT",
   "engines": {

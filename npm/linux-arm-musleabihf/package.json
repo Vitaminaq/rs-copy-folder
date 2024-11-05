@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "@wefly-rs/copy-folder.linux-arm-musleabihf.node",
+  "main": "copy-folder.linux-arm-musleabihf.node",
   "files": [
-    "@wefly-rs/copy-folder.linux-arm-musleabihf.node"
+    "copy-folder.linux-arm-musleabihf.node"
   ],
   "license": "MIT",
   "engines": {

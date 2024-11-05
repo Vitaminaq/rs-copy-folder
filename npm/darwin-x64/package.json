@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "@wefly-rs/copy-folder.darwin-x64.node",
+  "main": "copy-folder.darwin-x64.node",
   "files": [
-    "@wefly-rs/copy-folder.darwin-x64.node"
+    "copy-folder.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {

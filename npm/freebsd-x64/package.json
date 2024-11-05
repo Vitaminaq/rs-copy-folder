@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "@wefly-rs/copy-folder.freebsd-x64.node",
+  "main": "copy-folder.freebsd-x64.node",
   "files": [
-    "@wefly-rs/copy-folder.freebsd-x64.node"
+    "copy-folder.freebsd-x64.node"
   ],
   "license": "MIT",
   "engines": {

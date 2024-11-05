@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "@wefly-rs/copy-folder.linux-x64-musl.node",
+  "main": "copy-folder.linux-x64-musl.node",
   "files": [
-    "@wefly-rs/copy-folder.linux-x64-musl.node"
+    "copy-folder.linux-x64-musl.node"
   ],
   "license": "MIT",
   "engines": {
