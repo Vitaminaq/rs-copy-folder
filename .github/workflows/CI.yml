@@ -1,7 +1,7 @@
 name: CI
 env:
   DEBUG: napi:*
-  APP_NAME: '@wefly-rs/copy-folder'
+  APP_NAME: 'copy-folder'
   MACOSX_DEPLOYMENT_TARGET: '10.13'
 permissions:
   contents: write

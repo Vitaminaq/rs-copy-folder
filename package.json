@@ -4,7 +4,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "@wefly-rs/copy-folder",
+    "name": "copy-folder",
     "triples": {
       "additional": [
         "aarch64-apple-darwin",
