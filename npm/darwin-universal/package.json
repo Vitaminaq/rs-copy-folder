@@ -1,6 +1,6 @@
 {
   "name": "@wefly-rs/copy-folder-darwin-universal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "os": [
     "darwin"
   ],

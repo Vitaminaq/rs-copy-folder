@@ -1,6 +1,6 @@
 {
   "name": "@wefly-rs/copy-folder-linux-riscv64-gnu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "os": [
     "linux"
   ],
