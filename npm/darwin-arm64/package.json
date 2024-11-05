@@ -1,6 +1,6 @@
 {
   "name": "@wefly-rs/copy-folder-darwin-arm64",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "os": [
     "darwin"
   ],
@@ -11,6 +11,10 @@
   "files": [
     "copy-folder.darwin-arm64.node"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vitaminaq/rs-copy-folder"
+  },
   "license": "MIT",
   "engines": {
     "node": ">= 10"
