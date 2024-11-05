@@ -9,4 +9,6 @@ fs.stat(filePath, (err, stats) => {
   }
 });
 
+console.log(process.cwd());
+
 console.log("test passed !!!");
